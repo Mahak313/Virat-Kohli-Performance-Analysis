@@ -115,7 +115,9 @@ This improves **filtering, slicing, and trend visualization** in Power BI.
 If you like this project or want to collaborate, feel free to connect 👇
 
 🔗 **GitHub**: https://github.com/Mahak313  
+
 🔗 **LinkedIn**: www.linkedin.com/in/mahakshrivastav 
+
 📧 **Email**: muskaanrastogi13@gmail.com 
 
 ---
